@@ -9,7 +9,7 @@ Prepared by <author>
 <date created>
 
 1. Red
-    i. Green
+     i. Green
 
 # Table of Contents
 [Table of Contents](#example)
