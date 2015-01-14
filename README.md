@@ -8,8 +8,8 @@ Prepared by <author>
 <organization>
 <date created>
 
-*   Red
-    * Green
+1   Red
+    1.1 Green
 *   Blue
 
 # Table of Contents
