@@ -9,7 +9,7 @@ Prepared by <author>
 <date created>
 
 *   Red
-        *   Green
+    * Green
 *   Blue
 
 # Table of Contents
