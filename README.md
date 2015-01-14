@@ -8,9 +8,9 @@ Prepared by <author>
 <organization>
 <date created>
 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+*   Red
+        *   Green
+*   Blue
 
 # Table of Contents
 [Table of Contents](#example)
