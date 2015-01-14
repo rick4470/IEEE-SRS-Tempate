@@ -8,7 +8,7 @@ Prepared by <author>
 <organization>
 <date created>
 
-1   Red
+1.   Red
     1.1 Green
 *   Blue
 
