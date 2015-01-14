@@ -8,9 +8,8 @@ Prepared by <author>
 <organization>
 <date created>
 
-1.   Red
-    i Green
-*   Blue
+1. Red
+    i. Green
 
 # Table of Contents
 [Table of Contents](#example)
