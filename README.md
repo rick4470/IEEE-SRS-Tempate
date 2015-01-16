@@ -13,9 +13,6 @@ Table of Contents
 [Table of Contents](#example)
 [Revision History](#revision-history)
 
-  * [envirius](#envirius)
-    * [Idea](#idea)
-    * [Features](#features)
   * [Introduction](#1-introduction)
     * 1.1 [Purpose](#11-purpose)
     * 1.2 [Document Conventions](#12-document-conventions)
