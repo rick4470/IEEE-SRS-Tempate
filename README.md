@@ -10,9 +10,7 @@ Prepared by <author>
 
 Table of Contents
 =================
-[Table of Contents](#example)
-[Revision History](#revision-history)
-
+  * [Revision History](#revision-history)
   * [Introduction](#1-introduction)
     * 1.1 [Purpose](#11-purpose)
     * 1.2 [Document Conventions](#12-document-conventions)
@@ -42,9 +40,10 @@ Table of Contents
     * 5.4 [Software Quality Attributes](#54-software-quality-attributes)
     * 5.5 [Business Rules](#55-business-rules)
   * [Other Requirements](#other-requirements)
- * [Appendix A: Glossary](#appendix-a-glossary)
- * [Appendix B: Analysis Models](#appendix-b-analysis-models)
- * [Appendix C: To Be Determined List](#appendix-c-to-be-determined-list)
+* [Appendix A: Glossary](#appendix-a-glossary)
+* [Appendix B: Analysis Models](#appendix-b-analysis-models)
+* [Appendix C: To Be Determined List](#appendix-c-to-be-determined-list)
+
 
 
 
